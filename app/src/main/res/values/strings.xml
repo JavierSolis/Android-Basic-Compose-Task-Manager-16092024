@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android Basic Compose - Task Manager 16092024</string>
+    <string name="title">All tasks completed</string>
+    <string name="subtitle">Nice work!</string>
 </resources>
